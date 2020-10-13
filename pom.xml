@@ -45,7 +45,7 @@
 	<properties>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mysql.version>8.0.19</mysql.version>
 		<httpclient.version>4.4.1</httpclient.version>
 		<httpcore.version>4.4.1</httpcore.version>
